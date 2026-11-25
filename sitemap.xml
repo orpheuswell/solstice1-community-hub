@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://orpheuswell.github.io/solstice1-community-hub/</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://orpheuswell.github.io/solstice1-community-hub/</loc></url>
+<url><loc>https://orpheuswell.github.io/solstice1-community-hub/news.html</loc></url>
+<url><loc>https://orpheuswell.github.io/solstice1-community-hub/network.html</loc></url>
+<url><loc>https://orpheuswell.github.io/solstice1-community-hub/mining.html</loc></url>
+<url><loc>https://orpheuswell.github.io/solstice1-community-hub/wallets.html</loc></url>
+<url><loc>https://orpheuswell.github.io/solstice1-community-hub/dapps.html</loc></url>
+<url><loc>https://orpheuswell.github.io/solstice1-community-hub/tokens.html</loc></url>
+<url><loc>https://orpheuswell.github.io/solstice1-community-hub/governance.html</loc></url>
+<url><loc>https://orpheuswell.github.io/solstice1-community-hub/development.html</loc></url>
+<url><loc>https://orpheuswell.github.io/solstice1-community-hub/community.html</loc></url>
+</urlset>
